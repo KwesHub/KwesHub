@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Kwɛs 👋
 
 <!--
 **KwesHub/KwesHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Kwɛs 👋
 
 Final-year Computer Science student at the University of East Anglia (predicted First-Class, July 2026).
 
